@@ -1,0 +1,28 @@
+name: wafflebrowny
+favicon: null
+layout_spectrum: 0.8243628917261958
+typography_spectrum: 0.48600905714556575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0483784731477499
+  lightness: 0.007131503662094474
+  saturation: 0.22422959748655558
+  rhythmicContrast: 0.31849828246049583
+purpose: []
