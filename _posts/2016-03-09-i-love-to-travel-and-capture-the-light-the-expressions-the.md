@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: 'I love to travel and capture the light, the expressions, the colors that this world has to offer.'
-datePublished: '2016-03-15T18:57:11.607Z'
-dateModified: '2016-03-15T18:57:04.156Z'
+description: 'I love to travel. The light, the expressions, and the colors in this world are what make my journey exuberant. This site is to share what I experience.'
+datePublished: '2016-03-15T19:02:19.845Z'
+dateModified: '2016-03-15T19:02:07.462Z'
 title: Mind Glass
 author: []
 sourcePath: _posts/2016-03-09-i-love-to-travel-and-capture-the-light-the-expressions-the.md
@@ -18,12 +19,11 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: i-love-to-travel-and-capture-the-light-the-expressions-the/index.html
-_type: Article
+_type: Blurb
 
 ---
-![Lalakhal, Sylhet, Bangladesh](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1c738cf3a02ed0d787c00c09cca1a9c18fcbd51.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dda0b22264cffc809828885f9ccce59c947f5356.jpg)
+![Lalakhal, Sylhet, Bangladesh](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a26dbf2ff08b71ac7c5b5a9aec1b5d218f693bdd.jpg)
+![Fire on the ground (Haripur, Sylhet, Bangladesh)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/253c1ba9196968fd8bc93e534559e714f2686aa6.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/16184df25964f309fc13fbc270b6e2f2669463e3.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f619f01b30c7f342778cae65a03c34af1731f6c.jpg)
 ![Shanti Bari, Shrimangal, Bangladesh](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a84bc34dea4d8f5c29968ed3e93bf8480c96654d.jpg)
