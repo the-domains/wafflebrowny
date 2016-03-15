@@ -1,7 +1,7 @@
 name: wafflebrowny
 favicon: null
 layout_spectrum: 0.95385
-typography_spectrum: 0.48600905714556575
+typography_spectrum: 0.48601
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.0483784731477499
-  lightness: 0.007131503662094474
-  saturation: 0.22422959748655558
-  rhythmicContrast: 0.31849828246049583
+  brandStrength: 0.125
+  lightness: 0.875
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
