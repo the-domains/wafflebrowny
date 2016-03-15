@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I love to travel and capture the light, the expressions, the colors that this world has to offer.'
-datePublished: '2016-03-15T18:52:01.163Z'
-dateModified: '2016-03-15T18:51:49.194Z'
+datePublished: '2016-03-15T18:57:11.607Z'
+dateModified: '2016-03-15T18:57:04.156Z'
 title: Mind Glass
 author: []
 sourcePath: _posts/2016-03-09-i-love-to-travel-and-capture-the-light-the-expressions-the.md
