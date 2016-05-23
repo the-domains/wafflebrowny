@@ -7,12 +7,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I love to travel. The light, the expressions, and the colors in this world are what make my journey exuberant. This site is to share what I experience.'
-datePublished: '2016-03-15T19:02:19.845Z'
-dateModified: '2016-03-15T19:02:07.462Z'
+datePublished: '2016-05-23T20:35:34.988Z'
+dateModified: '2016-03-15T19:02:25.795Z'
 title: Mind Glass
 author: []
 sourcePath: _posts/2016-03-09-i-love-to-travel-and-capture-the-light-the-expressions-the.md
-published: true
 authors: []
 publisher:
   name: null
